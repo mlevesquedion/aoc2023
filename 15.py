@@ -1,5 +1,3 @@
-import collections
-
 data = open('15.txt').read().rstrip()
 
 

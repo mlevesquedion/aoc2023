@@ -45,7 +45,6 @@ for node in nodes:
 
 
 def solve(G):
-    next_id = 0
     nodes = set()
     for src, dsts in G.items():
         nodes.add(src)
